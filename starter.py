@@ -99,6 +99,7 @@ print(f"Normal Force at landing: {normal_force:.2f} N")
 # --- Plotting Section ---
 plt.figure(figsize=(10, 8))
 
+
 # Altitude Plot
 plt.subplot(3, 1, 1)
 plt.plot(time_list, altitude_list, label='Altitude (m)')
