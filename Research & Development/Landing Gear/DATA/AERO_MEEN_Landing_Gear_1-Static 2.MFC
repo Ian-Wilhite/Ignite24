@@ -1,0 +1,16 @@
+[StartTime]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=3s
+[SolverState]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=2
+[MainFrame]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=No
+[SolverType]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=Linear Analysis
+[StudyType]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=0
+[StudyName]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=Static 2
+[Solver]
+AERO_MEEN_Landing_Gear_1-Static 2.MFC=Sparse
